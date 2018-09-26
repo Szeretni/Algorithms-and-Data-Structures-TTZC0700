@@ -1,0 +1,14 @@
+c:\users\hannu\source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\bin\Debug\Kotitehtavat1.exe.config
+c:\users\hannu\source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\bin\Debug\Kotitehtavat1.exe
+c:\users\hannu\source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\bin\Debug\Kotitehtavat1.pdb
+c:\users\hannu\source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\obj\Debug\Kotitehtavat1.csprojAssemblyReference.cache
+c:\users\hannu\source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\obj\Debug\Kotitehtavat1.csproj.CoreCompileInputs.cache
+c:\users\hannu\source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\obj\Debug\Kotitehtavat1.exe
+c:\users\hannu\source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\obj\Debug\Kotitehtavat1.pdb
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\bin\Debug\Kotitehtavat1.exe.config
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\bin\Debug\Kotitehtavat1.exe
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\bin\Debug\Kotitehtavat1.pdb
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\obj\Debug\Kotitehtavat1.csprojAssemblyReference.cache
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\obj\Debug\Kotitehtavat1.csproj.CoreCompileInputs.cache
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\obj\Debug\Kotitehtavat1.exe
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Kotitehtavat1\obj\Debug\Kotitehtavat1.pdb

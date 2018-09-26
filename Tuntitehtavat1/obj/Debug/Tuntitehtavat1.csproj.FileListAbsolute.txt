@@ -1,0 +1,7 @@
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Tuntitehtavat1\bin\Debug\Tuntitehtavat1.exe.config
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Tuntitehtavat1\bin\Debug\Tuntitehtavat1.exe
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Tuntitehtavat1\bin\Debug\Tuntitehtavat1.pdb
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Tuntitehtavat1\obj\Debug\Tuntitehtavat1.csprojAssemblyReference.cache
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Tuntitehtavat1\obj\Debug\Tuntitehtavat1.csproj.CoreCompileInputs.cache
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Tuntitehtavat1\obj\Debug\Tuntitehtavat1.exe
+C:\Users\l2912\Source\repos\TietorakenteetAlgoritmit\Tuntitehtavat1\obj\Debug\Tuntitehtavat1.pdb
